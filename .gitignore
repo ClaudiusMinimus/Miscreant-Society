@@ -6,8 +6,6 @@ datapacks/*
 # Ignore these folders
 builds/*server*.zip
 minecraft/backups/*
-minecraft/.bobby/*
-minecraft/.fabric/*
 minecraft/.mixin.out/*
 minecraft/backup/*
 
@@ -19,7 +17,6 @@ minecraft/backup/*
 minecraft/config/*
 
 minecraft/coremods/*
-minecraft/craftpresence/*
 minecraft/crash-reports/*
 minecraft/data/*
 minecraft/ESM/*
@@ -67,17 +64,14 @@ minecraft/irisUpdateInfo.json
 minecraft/keys.txt
 minecraft/knownkeys.txt
 minecraft/Link*
-minecraft/config/defaultoptions/servers.dat
 minecraft/config/NoChatReports/NCR-Encryption.json
 minecraft/config/NoChatReports/NCR-ServerWhitelist.json
 minecraft/config/NoChatReports/README.md
-minecraft/config/skyblockbuilder/data/*.txt
 minecraft/observable_announce
 minecraft/options.amecsapi.txt
 minecraft/options.justenoughkeys.txt
 minecraft/options.txt
 minecraft/patchouli_data.json
-minecraft/pfmUpdateInfo.json
 minecraft/polymer-resourcepack.zip
 minecraft/realms_persistence.json
 minecraft/rhino.local.properties
@@ -89,13 +83,8 @@ server/*.zip
 
 # [Stop ignoring these folders]
 !minecraft/config/defaultoptions/
-!minecraft/config/defaultworldtype
 !minecraft/config/drippyloadingscreen/
 !minecraft/config/fancymenu/
-!minecraft/config/fpsreducer/
-!minecraft/config/ftbquests/
-!minecraft/config/NoChatReports/
-!minecraft/config/skyblockbuilder
 !minecraft/config/yosbr/
 !minecraft/patchouli_books/
 
@@ -107,24 +96,17 @@ minecraft/config/fancymenu/locals/*
 !minecraft/config/bhmenu-client.toml
 !minecraft/config/defaultsettings.json
 !minecraft/config/gamemenumodoption-client.toml
-!minecraft/config/quark-common.toml
-!minecraft/config/squatgrow-common.yaml
 !minecraft/config/theoneprobe-client.toml
 !minecraft/config/theoneprobe-common.toml
 !minecraft/config/NoChatReports/NCR-Client.json
-!minecraft/config/vtweaks-common.toml
 !minecraft/config/xaeroworldmap.txt
 !server/config/bcc-common.toml
 !server/config/carrier.json
-curseforge_create-on-a-potato.png
 minecraft/downloads/log.json
 /minecraft/xaero
-minecraft/TrashSlotSaveState.json
 minecraft/command_history.txt
-minecraft/config/squatgrow-common.yaml
 minecraft/config/theoneprobe-client.toml
 minecraft/config/theoneprobe-common.toml
-minecraft/config/vtweaks-common.toml
 minecraft/config/xaeroworldmap.txt
 minecraft/dynamic-resource-pack-cache/hash.txt
 .vscode/settings.json
