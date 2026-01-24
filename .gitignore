@@ -92,6 +92,7 @@ server/*.zip
 minecraft/config/fancymenu/locals/*
 
 # Stop ignoring these files
+!minecraft/icon.png
 !minecraft/config/bcc-common.toml
 !minecraft/config/better*-neoforge-1_21.toml
 !minecraft/config/bhmenu-client.toml
