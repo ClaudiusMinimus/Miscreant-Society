@@ -95,6 +95,7 @@ minecraft/config/fancymenu/locals/*
 !minecraft/config/bcc-common.toml
 !minecraft/config/better*-neoforge-1_21.toml
 !minecraft/config/bhmenu-client.toml
+!minecraft/config/create-server.toml
 !minecraft/config/defaultsettings.json
 !minecraft/config/gamemenumodoption-client.toml
 !minecraft/config/theoneprobe-client.toml
