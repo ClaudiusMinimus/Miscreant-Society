@@ -1,0 +1,41 @@
+[
+  {
+    "id": "chat",
+    "title": "Open Chat",
+    "icon": "minecraft:paper",
+    "action": {
+      "type": "KEY",
+      "name": "key.chat",
+      "toggle": false,
+      "mode": "AUTO"
+    }
+  },
+  {
+    "id": "Utilites",
+    "title": "Utilites",
+    "icon": "immersive_aircraft:industrial_gears",
+    "children": [
+      {
+        "id": "cmd_19bd75f52fb",
+        "title": "Open Keybindings",
+        "icon": "minecraft:ominous_trial_key",
+        "action": {
+          "type": "COMMAND",
+          "command": "/openguiscreen com.blamejared.controlling.client.NewKeyBindsScreen",
+          "delayTicks": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "key_19bd783299b",
+    "title": "Open Backpack",
+    "icon": "backpacks:backpack",
+    "action": {
+      "type": "KEY",
+      "name": "backpacks.open_backpack",
+      "toggle": false,
+      "mode": "AUTO"
+    }
+  }
+]
