@@ -120,3 +120,7 @@ minecraft/kubejs/assets/kubejs/textures/block/example_block.png
 minecraft/kubejs/assets/kubejs/textures/item/example_item.png
 minecraft/kubejs/config/common.properties
 minecraft/mods
+/minecraft/.fabric
+/minecraft/Microsoft
+/minecraft/resourcepacks
+minecraft/TrashSlotSaveState.json
